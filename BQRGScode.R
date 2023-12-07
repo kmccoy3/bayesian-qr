@@ -29,7 +29,7 @@ for (i in 1:I){
 }
 
 ### ----------------------------
-### Gibbs sampler
+### Gibbs sampler algorithm:
 ### ----------------------------
 S <- 25000
 num.rand.params <- 2
