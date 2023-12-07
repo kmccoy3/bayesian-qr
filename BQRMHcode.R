@@ -1,3 +1,9 @@
+#######################################################################
+## - Bayesian Quantile Regression Metroplis Hastings Sampler Code - ##
+##### Note: Algorithm based on "Bayesian quantile regression     #####
+##### for longitudinal data models" by Luo et al. (2011)         #####
+######################################################################
+
 library(MASS)
 library(invgamma)
 
