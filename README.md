@@ -1,5 +1,5 @@
 # bayesian-qr
-Bayesian quantile regression project completed for STAT 525 at Rice University. The final report is included as `report.pdf`.
+Bayesian quantile regression project completed for STAT 525 at Rice University. The final report is included as `report.pdf`. This report specifically discusses standard Bayesian quantile regression and longitudinal Bayesian quantile regression. We have also included code that implements the methods discussed in the report. 
 
 # Repository Contents
 - `BQRcode.R`: 
