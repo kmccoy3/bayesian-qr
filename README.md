@@ -5,5 +5,5 @@ Bayesian quantile regression project completed for STAT 525 at Rice University. 
 - `BQRcode.R`: 
 - `BQRGScode.R`: 
 - `BQRMHcode.R`:
-- `SBQR_syntheticdata.R`: Standard Bayesian quantile regression applied to synthetic data set. This code generates Figures 1-4 and 9-12.
-- `SBQR_realdata.R`: Standard Bayesian quantile regression applied to real data set. This code generates Figures 5.
+- `OBQR_syntheticdata.R`: Ordinary Bayesian quantile regression applied to synthetic data set. This code generates Figures 1-4 and 9-12.
+- `OBQR_realdata.R`: Ordinary Bayesian quantile regression applied to real data set. This code generates Figures 5.
